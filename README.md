@@ -1,10 +1,40 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this Assignment I have tried to build like a **E-commerce App** for bag by using React.js.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+- `npm start`
+- `npm test`
+- `npm install`
+
+### Set Up Instructions
+
+<details>
+<summary>Click to view</summary>
+
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+</details>
+
+### Used dependencies
+
+<details>
+<summary>Click to view</summary>
+
+- `Font Awesome 5`
+- `React-loader-spinner`
+- `React-router-dom`
+</details>
+
+### Complete Instruction
+
+<details>
+<summary>In this project I am used dummy API's</summary>
+
+- `https://dev-tspxfl4hvvkbbss.api.raw-labs.com/mock/json-api`
+- `By following figma assignment file. I have completed this project`
+</details>
 
 ### `npm start`
 
@@ -68,3 +98,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Resources
+
+<details>
+<summary>Images</summary>
+
+    - For creating Images link I have use Cloudary.com
+
+</details>
+
+<details>
+<summary>Colors</summary>
+
+    - I have used given Figma file colors
+
+</details>
+
+<details>
+<summary>Font-family</summary>
+
+- Comme
+- Encode Sans
+- Raleway
+
+</details>
