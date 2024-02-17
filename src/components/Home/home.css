@@ -1,0 +1,110 @@
+.main-container {
+  background: #0c0c0c;
+  width: 99vw;
+}
+.home-header-container {
+  margin: 0px 19px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  top: 90px;
+}
+
+.home-header-container p {
+  font-family: Encode Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  text-align: left;
+  color: #fff;
+}
+
+.home-header-container p span img {
+  margin: 0px 5px;
+}
+
+.home-header-container .product-count p {
+  font-family: Encode Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  text-align: left;
+}
+
+.home-header-container .product-count p span img {
+  width: 15px;
+}
+
+.product-details-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px 35px;
+  @media screen and (max-width:576px) {
+    width: 50%;
+  }
+}
+
+.product-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0px 8px;
+}
+
+.product-cards > p {
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #fff;
+}
+
+.product-cards .product-amount {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-amount p {
+  font-family: Encode Sans;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: #fff;
+}
+
+.product-amount sub p {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: right;
+}
+
+.product-amount sub p span {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Raleway;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2fc14f;
+}
